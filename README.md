@@ -28,6 +28,7 @@ Apart from Farmer Name which is unique ,the rest of the dimensio tables we will 
 ## Data Quality Audit 
 
 |Issue | Columns Affected | Solution | Reason |
+|:-----|:-----------------|:---------|:-------|
 |Errors, N/A , Blanks | Planted Acres , Market Price , Revenue , Profit , Crop TYpe, Irrigation ,Crop Variety , Season , Yield , Counties , Cost of Production , Planting Date , Harvesting Date , Soil Type , Fertiliser Used , Pest Control, Weather Impact | Changed all errors, N/As, Blanks to Not Provided for all non monetary columns and changed name to nulls for monetary and date columns |We honestly cant delete rows because of blanks because we will be loosing crucial data and again cant just add information to our blanks because that again will be corrupting data|
 
 For the most part of our data we just had to fix the errors and blanks because generally our data was quite okay 
