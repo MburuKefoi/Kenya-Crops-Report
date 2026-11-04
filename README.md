@@ -77,13 +77,18 @@ We do create a date table to enable us perform time intelligence functions like 
 RECOMMENDATIONS
 
 The following insights were made from our Crops data :
+
 Not provided crop type had the most revenue of 160.41M followed by Rice with a revenue of 133.01M and Sorghum closing our top three with revenue of 121.12M 
+
 Nyeri had the most revenue of   162.05 M   followed by Nairobi with a revenue of  132.89M  and Nakuru with revenue of  112.18M
+
 There is a strong correlation between profit and yield as compared to profit and average market price
+
 Tea and rice bore the most cost for crops grown
   
 
 Looking at the data ,we had the following recommendations to make :
+
 Most of our crops performed well without the need of modern agricultural practices because we are yielding over 400M from crops that used no fertilizers, we need to investigate and know why is this case, do some of these crops require no fertilizer because we can have our farmers cutting cost on fertilizers although this is not the case for all the crops and hence we should investigate and know which crop yield best with urea, which one yield best with organic ....
 
 Encourage our farmers to use organic pest control as compared to chemical because organic controls yield even more crops per acre with a whooping 71 %
